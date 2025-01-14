@@ -1,5 +1,5 @@
 <?php
-namespace Assisten;
+namespace App\Assisten;
 
 class Assisten
 {
